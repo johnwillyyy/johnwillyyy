@@ -1,23 +1,83 @@
-<h1 align="center">Hi 👋, I'm John William</h1>
-<h3 align="center">A passionate Computer Engineering student from Egypt</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Deep Learning**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2600&pause=500&color=51F3F7&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+profile!;I'm+John+William;I+build+web%2C+mobile+%26+ML+projects)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/john-william-b26093233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-william-b26093233" height="30" width="40" /></a>
-<a href="https://kaggle.com/johnwilllllliam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="johnwilllllliam" height="30" width="40" /></a>
-<a href="https://fb.com/john.william.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="john.william.16" height="30" width="40" /></a>
-<a href="https://instagram.com/john_willliam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="john_willliam" height="30" width="40" /></a>
-<a href="https://www.behance.net/johnwilllliam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="johnwilllliam" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/johnwilly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="johnwilly" height="30" width="40" /></a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Animated developer workspace">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=johnwillyyy&style=for-the-badge&color=6C5CE7)
+[![GitHub followers](https://img.shields.io/github/followers/johnwillyyy?style=for-the-badge&logo=github&color=a855f7)](https://github.com/johnwillyyy?tab=followers)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnwillyyy&show_icons=true&locale=en&layout=compact" alt="johnwillyyy" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnwillyyy&show_icons=true&locale=en" alt="johnwillyyy" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnwillyyy&" alt="johnwillyyy" /></p>
+## About Me
+
+<img align="right" alt="Coding animation" width="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🎓 Third-year **Computer Engineering** student at **Alexandria University**, Egypt
+- 💻 Building full-stack web and mobile apps with **React, React Native, Spring Boot, and MySQL**
+- 🧠 Exploring **applied machine learning** and **asynchronous federated learning**
+- 🐧 Working primarily on **Ubuntu**
+- 🔧 Interested in backend engineering, practical ML, and solving tricky bugs
+
+<br clear="right">
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,c,cpp,html,css&perline=8" alt="Java, Python, JavaScript, TypeScript, C, C++, HTML, CSS">
+
+### 🚀 Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,spring,pytorch,git,github,postman,figma&perline=8" alt="React, Tailwind CSS, Spring, PyTorch, Git, GitHub, Postman, Figma">
+
+### 🗄️ Databases & Environment
+
+<img src="https://skillicons.dev/icons?i=mysql,redis,aws,linux,ubuntu,vscode&perline=8" alt="MySQL, Redis, AWS, Linux, Ubuntu, VS Code">
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=johnwillyyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=A855F7&text_color=FFFFFF" alt="John's GitHub stats">
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=johnwillyyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=FFFFFF&langs_count=8" alt="John's most used GitHub languages">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=johnwillyyy&bg_color=0D1117&color=6C5CE7&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="90%" alt="John's GitHub activity graph">
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-william-b26093233/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnwillyyy)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/johnwilllllliam)
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Animated color divider">
+
+**From [John William](https://github.com/johnwillyyy)**
+
+![Wave footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
