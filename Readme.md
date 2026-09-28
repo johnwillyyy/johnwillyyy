@@ -50,7 +50,9 @@
 <div align="center">
 
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=johnwillyyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=A855F7&text_color=FFFFFF" alt="John's GitHub stats">
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=johnwillyyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=FFFFFF&langs_count=8" alt="John's most used GitHub languages">
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=johnwillyyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5" alt="Languages across John's public repositories, excluding Jupyter notebooks">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=johnwillyyy&bg_color=0D1117&color=6C5CE7&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="90%" alt="John's GitHub activity graph">
 
 </div>
 
